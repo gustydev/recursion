@@ -9,7 +9,7 @@ function fibs(n) {
     return fibs;
 }
 
-fibs(2)
-fibs(4)
-fibs(8)
-fibs(20)
+console.log(fibs(2))
+console.log(fibs(4))
+console.log(fibs(8))
+console.log(fibs(20))
